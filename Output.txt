@@ -1,0 +1,17 @@
+
+Buyer Organisation Unit Number: 003757468771
+Buyer Organisation Name: Flower Time
+Buyer Town Name: RAUMA
+Buyer Postal Code: 26007
+Invoice Total Vat Included Ammount: 1867,24
+-------------------------------------------------------------------
+Buyer Organisation Unit Number: 003733408133
+Buyer Organisation Name: Big Star Market
+Invoice Total Vat Included Ammount: 736,26
+-------------------------------------------------------------------
+Buyer Organisation Unit Number: 003723842403
+Buyer Organisation Name: Blue Boar Cafeteria
+Buyer Town Name: MIKKELI
+Buyer Postal Code: 50160
+Invoice Total Vat Included Ammount: 55,90
+-------------------------------------------------------------------
